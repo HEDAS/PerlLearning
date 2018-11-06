@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06901da0-1062-483a-afc6-1f0656059cf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Noob/describtion.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/tips.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/String/basic.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/String/practise.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_Deparsed_XSubs.pm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/happy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/high_level.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/cucud.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/cucud.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/perl5local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/perl5local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/perl5shared.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/perl5shared.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 10/lnr_example.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 10/lnr_example.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 14/numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/String/data/numbers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 14/sortable_hash.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/String/data/sortable_hash.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 16/fake_date.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 16/fake_date.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 17/sample_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 17/sample_text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/bamm-bamm" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/bamm-bamm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/barney" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/barney" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/betty" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/betty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/dino" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/dino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/fred" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/fred" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/pebbles" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/pebbles" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/wilma" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/wilma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 8/pattern_test.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 8/pattern_test.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 9/perlfunc.pod" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 9/perlfunc.pod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/For old editions/which_dbm.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/For old editions/which_dbm.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/README" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Noob/describtion.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Noob/describtion.pl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +56,17 @@
     <session id="1944886316">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.94" value="1" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -41,21 +74,25 @@
           <entry key="bamm-bamm" value="2" />
           <entry key="barney" value="2" />
           <entry key="betty" value="1" />
+          <entry key="config" value="1" />
           <entry key="dino" value="1" />
           <entry key="fred" value="1" />
-          <entry key="md" value="1" />
+          <entry key="md" value="10" />
+          <entry key="motto" value="2" />
           <entry key="pebbles" value="1" />
-          <entry key="pl" value="12" />
-          <entry key="pm" value="3" />
+          <entry key="pl" value="20" />
+          <entry key="pm" value="4" />
+          <entry key="pub" value="3" />
+          <entry key="txt" value="6" />
           <entry key="wilma" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Perl5 package" value="3" />
-          <entry key="Perl5 script" value="12" />
+          <entry key="Markdown" value="7" />
+          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="Perl5 package" value="4" />
+          <entry key="Perl5 script" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -64,50 +101,86 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="166" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Markdown" value="364" />
+          <entry key="PLAIN_TEXT" value="93" />
           <entry key="Perl5 package" value="8" />
-          <entry key="Perl5 script" value="661" />
-          <entry key="VTL" value="57" />
+          <entry key="Perl5 script" value="4484" />
+          <entry key="VTL" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="ft" value="57" />
-          <entry key="md" value="167" />
-          <entry key="pl" value="661" />
+          <entry key="ft" value="68" />
+          <entry key="md" value="367" />
+          <entry key="pl" value="4484" />
           <entry key="pm" value="8" />
+          <entry key="txt" value="90" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/io_demo.pl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="e#58#178#0#Perl5" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Noob/describtion.pl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-              <folding>
-                <element signature="e#85#205#0#Perl5" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Learning/String/basic.pl">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3474">
+                  <caret line="193" column="35" selection-start-line="193" selection-start-column="35" selection-end-line="193" selection-end-column="35" />
+                  <folding>
+                    <element signature="e#85#205#0#Perl5" expanded="true" />
+                    <element signature="e#748#868#0#Perl5" expanded="true" />
+                    <element signature="e#1263#1383#0#Perl5" expanded="true" />
+                    <element signature="e#2135#2255#0#Perl5" expanded="true" />
+                    <element signature="e#2716#2771#0#Perl5" expanded="true" />
+                    <element signature="e#3256#3376#0#Perl5" expanded="true" />
+                    <element signature="e#3705#3825#0#Perl5" expanded="true" />
+                    <element signature="e#3892#3899#0#Perl5" expanded="true" />
+                    <element signature="e#4862#4919#0#Perl5" expanded="true" />
+                    <element signature="e#5212#5231#0#Perl5" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Learning/String/practise.pl">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="162">
+                  <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Learning/String/data/sortable_hash.pl">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="162">
+                  <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Learning/String/data/numbers.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="72">
+                  <caret line="4" selection-start-line="4" selection-end-line="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,6 +189,11 @@
         <option value="Perl5 script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$rock</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -136,7 +214,18 @@
         <option value="$PROJECT_DIR$/io_demo.pl" />
         <option value="$PROJECT_DIR$/tutorial_for_noob.pm" />
         <option value="$PROJECT_DIR$/code_style.md" />
+        <option value="$PROJECT_DIR$/.git/config" />
         <option value="$PROJECT_DIR$/Noob/describtion.pl" />
+        <option value="$PROJECT_DIR$/Effective/tips.txt" />
+        <option value="$PROJECT_DIR$/books.md" />
+        <option value="$PROJECT_DIR$/high_level.md" />
+        <option value="$PROJECT_DIR$/motto.md" />
+        <option value="$PROJECT_DIR$/happy.md" />
+        <option value="$PROJECT_DIR$/Learning/try.pl" />
+        <option value="$PROJECT_DIR$/Learning/directory.pm" />
+        <option value="$PROJECT_DIR$/Learning/directory.pl" />
+        <option value="$PROJECT_DIR$/Learning/String/basic.pl" />
+        <option value="$PROJECT_DIR$/Learning/String/practise.pl" />
       </list>
     </option>
   </component>
@@ -146,15 +235,44 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="370" />
-    <option name="y" value="45" />
-    <option name="width" value="1750" />
-    <option name="height" value="970" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="517" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -167,6 +285,17 @@
               <item name="PerlLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="PerlLearning" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PerlLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PerlLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PerlLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PerlLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -176,14 +305,20 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541249170200" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541463202117" />
     <property name="last_opened_file_path" value="E:/Software/Strawberry/perl/lib/Perl" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="PERL5_MAIN_SETTINGS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\PerlLearning\Learning\String" />
+      <recent name="D:\IdeaProjects\PerlLearning\Learning" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -197,9 +332,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Perl.describtion.pl">
-    <configuration name="describtion.pl" type="#PerlConfigurationType" factoryName="Perl" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <option name="alternativeSdkPath" />
+  <component name="RunManager" selected="Perl.practise.pl">
+    <configuration default="true" type="#PerlConfigurationType" factoryName="Perl" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="alternativeSdkPath" value="" />
       <option name="compileTimeBreakpointsEnabled" value="false" />
       <option name="consoleCharset" value="UTF-8" />
       <option name="envs">
@@ -208,21 +343,21 @@
       <option name="nonInteractiveModeEnabled" value="false" />
       <option name="passParentEnvs" value="true" />
       <option name="perlParameters" value="" />
-      <option name="programParameters" />
-      <option name="scriptPath" value="$PROJECT_DIR$/Noob/describtion.pl" />
+      <option name="programParameters" value="" />
+      <option name="scriptPath" value="" />
       <option name="useAlternativeSdk" value="false" />
-      <option name="workingDirectory" />
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Noob/describtion.pl" />
-      <option name="PROGRAM_PARAMETERS" />
+      <option name="workingDirectory" value="" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
       <option name="PERL_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="ENVS">
         <map />
       </option>
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="CHARSET" value="UTF-8" />
       <option name="USE_ALTERNATIVE_SDK" value="false" />
-      <option name="ALTERNATIVE_SDK_PATH" />
+      <option name="ALTERNATIVE_SDK_PATH" value="" />
       <option name="scriptCharset" value="utf8" />
       <option name="startMode" value="RUN" />
       <option name="isNonInteractiveModeEnabled" value="false" />
@@ -230,8 +365,8 @@
       <option name="initCode" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="helloworld.pl" type="#PerlConfigurationType" factoryName="Perl" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <option name="alternativeSdkPath" />
+    <configuration name="basic.pl" type="#PerlConfigurationType" factoryName="Perl" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="alternativeSdkPath" value="" />
       <option name="compileTimeBreakpointsEnabled" value="false" />
       <option name="consoleCharset" value="UTF-8" />
       <option name="envs">
@@ -240,21 +375,21 @@
       <option name="nonInteractiveModeEnabled" value="false" />
       <option name="passParentEnvs" value="true" />
       <option name="perlParameters" value="" />
-      <option name="programParameters" />
-      <option name="scriptPath" value="$PROJECT_DIR$/helloworld.pl" />
+      <option name="programParameters" value="" />
+      <option name="scriptPath" value="$PROJECT_DIR$/Learning/String/basic.pl" />
       <option name="useAlternativeSdk" value="false" />
-      <option name="workingDirectory" />
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/helloworld.pl" />
-      <option name="PROGRAM_PARAMETERS" />
+      <option name="workingDirectory" value="" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Learning/String/basic.pl" />
+      <option name="PROGRAM_PARAMETERS" value="" />
       <option name="PERL_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="ENVS">
         <map />
       </option>
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="CHARSET" value="UTF-8" />
       <option name="USE_ALTERNATIVE_SDK" value="false" />
-      <option name="ALTERNATIVE_SDK_PATH" />
+      <option name="ALTERNATIVE_SDK_PATH" value="" />
       <option name="scriptCharset" value="utf8" />
       <option name="startMode" value="RUN" />
       <option name="isNonInteractiveModeEnabled" value="false" />
@@ -262,8 +397,8 @@
       <option name="initCode" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="io_demo.pl" type="#PerlConfigurationType" factoryName="Perl" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <option name="alternativeSdkPath" />
+    <configuration name="directory.pl" type="#PerlConfigurationType" factoryName="Perl" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="alternativeSdkPath" value="" />
       <option name="compileTimeBreakpointsEnabled" value="false" />
       <option name="consoleCharset" value="UTF-8" />
       <option name="envs">
@@ -272,21 +407,21 @@
       <option name="nonInteractiveModeEnabled" value="false" />
       <option name="passParentEnvs" value="true" />
       <option name="perlParameters" value="" />
-      <option name="programParameters" />
-      <option name="scriptPath" value="$PROJECT_DIR$/io_demo.pl" />
+      <option name="programParameters" value="" />
+      <option name="scriptPath" value="$PROJECT_DIR$/Learning/directory.pl" />
       <option name="useAlternativeSdk" value="false" />
-      <option name="workingDirectory" />
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/io_demo.pl" />
-      <option name="PROGRAM_PARAMETERS" />
+      <option name="workingDirectory" value="" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Learning/directory.pl" />
+      <option name="PROGRAM_PARAMETERS" value="" />
       <option name="PERL_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="ENVS">
         <map />
       </option>
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="CHARSET" value="UTF-8" />
       <option name="USE_ALTERNATIVE_SDK" value="false" />
-      <option name="ALTERNATIVE_SDK_PATH" />
+      <option name="ALTERNATIVE_SDK_PATH" value="" />
       <option name="scriptCharset" value="utf8" />
       <option name="startMode" value="RUN" />
       <option name="isNonInteractiveModeEnabled" value="false" />
@@ -294,8 +429,8 @@
       <option name="initCode" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="try.pl" type="#PerlConfigurationType" factoryName="Perl" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <option name="alternativeSdkPath" />
+    <configuration name="practise.pl" type="#PerlConfigurationType" factoryName="Perl" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="alternativeSdkPath" value="" />
       <option name="compileTimeBreakpointsEnabled" value="false" />
       <option name="consoleCharset" value="UTF-8" />
       <option name="envs">
@@ -304,21 +439,21 @@
       <option name="nonInteractiveModeEnabled" value="false" />
       <option name="passParentEnvs" value="true" />
       <option name="perlParameters" value="" />
-      <option name="programParameters" />
-      <option name="scriptPath" value="$PROJECT_DIR$/try.pl" />
+      <option name="programParameters" value="" />
+      <option name="scriptPath" value="$PROJECT_DIR$/Learning/String/practise.pl" />
       <option name="useAlternativeSdk" value="false" />
-      <option name="workingDirectory" />
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/try.pl" />
-      <option name="PROGRAM_PARAMETERS" />
+      <option name="workingDirectory" value="" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Learning/String/practise.pl" />
+      <option name="PROGRAM_PARAMETERS" value="" />
       <option name="PERL_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="ENVS">
         <map />
       </option>
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="CHARSET" value="UTF-8" />
       <option name="USE_ALTERNATIVE_SDK" value="false" />
-      <option name="ALTERNATIVE_SDK_PATH" />
+      <option name="ALTERNATIVE_SDK_PATH" value="" />
       <option name="scriptCharset" value="utf8" />
       <option name="startMode" value="RUN" />
       <option name="isNonInteractiveModeEnabled" value="false" />
@@ -327,17 +462,15 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Perl.helloworld.pl" />
-      <item itemvalue="Perl.try.pl" />
-      <item itemvalue="Perl.io_demo.pl" />
-      <item itemvalue="Perl.describtion.pl" />
+      <item itemvalue="Perl.directory.pl" />
+      <item itemvalue="Perl.basic.pl" />
+      <item itemvalue="Perl.practise.pl" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Perl.describtion.pl" />
-        <item itemvalue="Perl.io_demo.pl" />
-        <item itemvalue="Perl.try.pl" />
-        <item itemvalue="Perl.helloworld.pl" />
+        <item itemvalue="Perl.practise.pl" />
+        <item itemvalue="Perl.basic.pl" />
+        <item itemvalue="Perl.directory.pl" />
       </list>
     </recent_temporary>
   </component>
@@ -359,12 +492,17 @@
       <workItem from="1541237296948" duration="1790000" />
       <workItem from="1541239519133" duration="8992000" />
       <workItem from="1541249203875" duration="190000" />
-      <workItem from="1541249428993" duration="1372000" />
+      <workItem from="1541249428993" duration="5868000" />
+      <workItem from="1541256472761" duration="1582000" />
+      <workItem from="1541258125679" duration="3241000" />
+      <workItem from="1541294244366" duration="1409000" />
+      <workItem from="1541338318461" duration="12317000" />
+      <workItem from="1541426734394" duration="8769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12424000" />
+    <option name="totallyTimeSpent" value="44238000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -376,26 +514,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49367088" visible="true" weight="0.20375335" />
-      <window_info id="Structure" order="1" sideWeight="0.5063291" side_tool="true" visible="true" weight="0.20375335" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48380566" visible="true" weight="0.21447721" />
+      <window_info id="Structure" order="1" sideWeight="0.51619434" side_tool="true" weight="0.20375335" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.3286119" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49865952" visible="true" weight="0.32765958" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.5013405" side_tool="true" visible="true" weight="0.32765958" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4979253" visible="true" weight="0.30070922" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49932975" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49597856" weight="0.35460994" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50402147" side_tool="true" weight="0.35602838" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -406,41 +546,74 @@
       <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48380566" visible="true" weight="0.21447721" />
+      <window_info id="Structure" order="1" sideWeight="0.51619434" side_tool="true" weight="0.20375335" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4979253" visible="true" weight="0.29929078" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49932975" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49597856" weight="0.35460994" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50402147" side_tool="true" weight="0.35602838" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/bamm-bamm">
+    <entry file="file://$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/bamm-bamm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/barney">
+    <entry file="file://$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/barney">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/betty">
+    <entry file="file://$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/betty">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/fred">
+    <entry file="file://$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/fred">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/pebbles">
+    <entry file="file://$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/pebbles">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/wilma">
+    <entry file="file://$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/wilma">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/dino">
+    <entry file="file://$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/dino">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://E:/Software/Strawberry/perl/lib/CPAN/Config.pm">
@@ -460,11 +633,53 @@
     <entry file="file://$PROJECT_DIR$/try.pl" />
     <entry file="file://$PROJECT_DIR$/helloworld.pl" />
     <entry file="file://$PROJECT_DIR$/tutorial_for_noob.pm" />
+    <entry file="file://$USER_HOME$/.ssh/id_rsa.pub">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.git/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Noob/describtion.pl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/motto.md" />
+    <entry file="file://$PROJECT_DIR$/high_level.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="171">
+            <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/code_style.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="171">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
@@ -472,21 +687,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/io_demo.pl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="285">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/motto" />
+    <entry file="file://$PROJECT_DIR$/happy.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Effective/tips.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/try.pl" />
+    <entry file="file://$PROJECT_DIR$/Learning/directory.pm" />
+    <entry file="file://$PROJECT_DIR$/Learning/directory.pl" />
+    <entry file="file://$PROJECT_DIR$/Learning/String/basic.pl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3474">
+          <caret line="193" column="35" selection-start-line="193" selection-start-column="35" selection-end-line="193" selection-end-column="35" />
           <folding>
-            <element signature="e#58#178#0#Perl5" expanded="true" />
+            <element signature="e#85#205#0#Perl5" expanded="true" />
+            <element signature="e#748#868#0#Perl5" expanded="true" />
+            <element signature="e#1263#1383#0#Perl5" expanded="true" />
+            <element signature="e#2135#2255#0#Perl5" expanded="true" />
+            <element signature="e#2716#2771#0#Perl5" expanded="true" />
+            <element signature="e#3256#3376#0#Perl5" expanded="true" />
+            <element signature="e#3705#3825#0#Perl5" expanded="true" />
+            <element signature="e#3892#3899#0#Perl5" expanded="true" />
+            <element signature="e#4862#4919#0#Perl5" expanded="true" />
+            <element signature="e#5212#5231#0#Perl5" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Noob/describtion.pl">
+    <entry file="file://$PROJECT_DIR$/Learning/String/data/numbers.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/String/data/sortable_hash.pl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <element signature="e#85#205#0#Perl5" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/String/practise.pl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
