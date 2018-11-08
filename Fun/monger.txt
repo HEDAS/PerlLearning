@@ -1,0 +1,3 @@
+要写出尽量多的Obfuscated Program
+1. Perl Monger大会
+2. JAPH

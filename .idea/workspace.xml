@@ -2,35 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06901da0-1062-483a-afc6-1f0656059cf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Effective/tips.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/String/basic.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/String/practise.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_Deparsed_XSubs.pm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/happy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high_level.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPAN/UnitList/UnitList.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fun/monger.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Smart/basic.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Smart/practise.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/String/result.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/cucud.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/cucud.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/perl5local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/perl5local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/perl5shared.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/perl5shared.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 10/lnr_example.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 10/lnr_example.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 14/numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/String/data/numbers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 14/sortable_hash.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/String/data/sortable_hash.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 16/fake_date.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 16/fake_date.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 17/sample_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 17/sample_text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/bamm-bamm" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/bamm-bamm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/barney" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/barney" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/betty" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/betty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/dino" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/dino" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/fred" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/fred" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/pebbles" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/pebbles" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 5/wilma" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/wilma" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 8/pattern_test.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 8/pattern_test.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/Chapter 9/perlfunc.pod" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 9/perlfunc.pod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/For old editions/which_dbm.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/For old editions/which_dbm.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning-Perl-Sample-Files-master/README" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Noob/describtion.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Noob/describtion.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/String/data/sortable_hash.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/String/data/sortable_hash.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/String/practise.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/String/practise.pl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +38,9 @@
     <session id="1944886316">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.109" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -65,8 +48,9 @@
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.75" value="1" />
           <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.93" value="1" />
           <entry key="project.open.time.94" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -77,22 +61,22 @@
           <entry key="config" value="1" />
           <entry key="dino" value="1" />
           <entry key="fred" value="1" />
-          <entry key="md" value="10" />
+          <entry key="md" value="12" />
           <entry key="motto" value="2" />
           <entry key="pebbles" value="1" />
-          <entry key="pl" value="20" />
+          <entry key="pl" value="31" />
           <entry key="pm" value="4" />
           <entry key="pub" value="3" />
-          <entry key="txt" value="6" />
+          <entry key="txt" value="9" />
           <entry key="wilma" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="7" />
-          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="Markdown" value="9" />
+          <entry key="PLAIN_TEXT" value="27" />
           <entry key="Perl5 package" value="4" />
-          <entry key="Perl5 script" value="20" />
+          <entry key="Perl5 script" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -101,86 +85,95 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="364" />
-          <entry key="PLAIN_TEXT" value="93" />
+          <entry key="Markdown" value="366" />
+          <entry key="PLAIN_TEXT" value="164" />
           <entry key="Perl5 package" value="8" />
-          <entry key="Perl5 script" value="4484" />
+          <entry key="Perl5 script" value="10049" />
           <entry key="VTL" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="dummy" value="7" />
           <entry key="ft" value="68" />
-          <entry key="md" value="367" />
-          <entry key="pl" value="4484" />
+          <entry key="md" value="369" />
+          <entry key="pl" value="10042" />
           <entry key="pm" value="8" />
-          <entry key="txt" value="90" />
+          <entry key="txt" value="161" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Learning/String/basic.pl">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3474">
-                  <caret line="193" column="35" selection-start-line="193" selection-start-column="35" selection-end-line="193" selection-end-column="35" />
-                  <folding>
-                    <element signature="e#85#205#0#Perl5" expanded="true" />
-                    <element signature="e#748#868#0#Perl5" expanded="true" />
-                    <element signature="e#1263#1383#0#Perl5" expanded="true" />
-                    <element signature="e#2135#2255#0#Perl5" expanded="true" />
-                    <element signature="e#2716#2771#0#Perl5" expanded="true" />
-                    <element signature="e#3256#3376#0#Perl5" expanded="true" />
-                    <element signature="e#3705#3825#0#Perl5" expanded="true" />
-                    <element signature="e#3892#3899#0#Perl5" expanded="true" />
-                    <element signature="e#4862#4919#0#Perl5" expanded="true" />
-                    <element signature="e#5212#5231#0#Perl5" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Learning/String/practise.pl">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="162">
-                  <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Learning/String/data/sortable_hash.pl">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="162">
-                  <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Learning/String/data/numbers.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="72">
-                  <caret line="4" selection-start-line="4" selection-end-line="4" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/books.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="54">
+                <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Learning/Smart/practise.pl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="151" column="57" selection-start-line="151" selection-start-column="57" selection-end-line="151" selection-end-column="57" />
+              <folding>
+                <element signature="e#97#111#0#Perl5" expanded="true" />
+                <element signature="e#525#645#0#Perl5" expanded="true" />
+                <element signature="e#884#903#0#Perl5" expanded="true" />
+                <element signature="e#1828#1848#0#Perl5" expanded="true" />
+                <element signature="e#2402#2447#0#Perl5" expanded="true" />
+                <element signature="e#3048#3064#0#Perl5" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Learning/Smart/basic.pl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="49" column="17" lean-forward="true" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+              <folding>
+                <element signature="e#97#111#0#Perl5" expanded="true" />
+                <element signature="e#501#621#0#Perl5" expanded="true" />
+                <element signature="e#4101#4172#0#Perl5" expanded="true" />
+                <element signature="e#4414#4485#0#Perl5" expanded="true" />
+                <element signature="e#4725#4796#0#Perl5" expanded="true" />
+                <element signature="e#6164#6235#0#Perl5" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CPAN/UnitList/UnitList.pl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Article/UtilList.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-18">
+                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -193,7 +186,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>$rock</find>
+      <find>\z</find>
+      <find>perl</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\IdeaProjects\PerlLearning\Learning</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -217,7 +215,6 @@
         <option value="$PROJECT_DIR$/.git/config" />
         <option value="$PROJECT_DIR$/Noob/describtion.pl" />
         <option value="$PROJECT_DIR$/Effective/tips.txt" />
-        <option value="$PROJECT_DIR$/books.md" />
         <option value="$PROJECT_DIR$/high_level.md" />
         <option value="$PROJECT_DIR$/motto.md" />
         <option value="$PROJECT_DIR$/happy.md" />
@@ -225,7 +222,14 @@
         <option value="$PROJECT_DIR$/Learning/directory.pm" />
         <option value="$PROJECT_DIR$/Learning/directory.pl" />
         <option value="$PROJECT_DIR$/Learning/String/basic.pl" />
+        <option value="$PROJECT_DIR$/Learning/String/result.txt" />
+        <option value="$PROJECT_DIR$/Fun/monger.txt" />
         <option value="$PROJECT_DIR$/Learning/String/practise.pl" />
+        <option value="$PROJECT_DIR$/Learning/String/data/sortable_hash.pl" />
+        <option value="$PROJECT_DIR$/books.md" />
+        <option value="$PROJECT_DIR$/CPAN/UnitList/UnitList.pl" />
+        <option value="$PROJECT_DIR$/Learning/Smart/basic.pl" />
+        <option value="$PROJECT_DIR$/Learning/Smart/practise.pl" />
       </list>
     </option>
   </component>
@@ -235,8 +239,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="517" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-23" />
+    <option name="y" value="-24" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -269,15 +274,15 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -294,18 +299,30 @@
               <item name="PerlLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="PerlLearning" type="462c0819:PsiDirectoryNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Smart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PerlLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PerlLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PerlLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541463202117" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541687981410" />
     <property name="last_opened_file_path" value="E:/Software/Strawberry/perl/lib/Perl" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -332,7 +349,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Perl.practise.pl">
+  <component name="RunManager" selected="Perl.practise.pl (1)">
+    <configuration name="UnitList.pl" type="#PerlConfigurationType" factoryName="Perl" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="alternativeSdkPath" value="" />
+      <option name="compileTimeBreakpointsEnabled" value="false" />
+      <option name="consoleCharset" value="UTF-8" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="nonInteractiveModeEnabled" value="false" />
+      <option name="passParentEnvs" value="true" />
+      <option name="perlParameters" value="" />
+      <option name="programParameters" value="" />
+      <option name="scriptPath" value="$PROJECT_DIR$/CPAN/UnitList/UnitList.pl" />
+      <option name="useAlternativeSdk" value="false" />
+      <option name="workingDirectory" value="" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/CPAN/UnitList/UnitList.pl" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="PERL_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ENVS">
+        <map />
+      </option>
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="CHARSET" value="UTF-8" />
+      <option name="USE_ALTERNATIVE_SDK" value="false" />
+      <option name="ALTERNATIVE_SDK_PATH" value="" />
+      <option name="scriptCharset" value="utf8" />
+      <option name="startMode" value="RUN" />
+      <option name="isNonInteractiveModeEnabled" value="false" />
+      <option name="isCompileTimeBreakpointsEnabled" value="false" />
+      <option name="initCode" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="#PerlConfigurationType" factoryName="Perl" show_console_on_std_err="false" show_console_on_std_out="false">
       <option name="alternativeSdkPath" value="" />
       <option name="compileTimeBreakpointsEnabled" value="false" />
@@ -348,6 +397,38 @@
       <option name="useAlternativeSdk" value="false" />
       <option name="workingDirectory" value="" />
       <option name="SCRIPT_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="PERL_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ENVS">
+        <map />
+      </option>
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="CHARSET" value="UTF-8" />
+      <option name="USE_ALTERNATIVE_SDK" value="false" />
+      <option name="ALTERNATIVE_SDK_PATH" value="" />
+      <option name="scriptCharset" value="utf8" />
+      <option name="startMode" value="RUN" />
+      <option name="isNonInteractiveModeEnabled" value="false" />
+      <option name="isCompileTimeBreakpointsEnabled" value="false" />
+      <option name="initCode" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="basic.pl (1)" type="#PerlConfigurationType" factoryName="Perl" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="alternativeSdkPath" value="" />
+      <option name="compileTimeBreakpointsEnabled" value="false" />
+      <option name="consoleCharset" value="UTF-8" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="nonInteractiveModeEnabled" value="false" />
+      <option name="passParentEnvs" value="true" />
+      <option name="perlParameters" value="" />
+      <option name="programParameters" value="" />
+      <option name="scriptPath" value="$PROJECT_DIR$/Learning/Smart/basic.pl" />
+      <option name="useAlternativeSdk" value="false" />
+      <option name="workingDirectory" value="" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Learning/Smart/basic.pl" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="PERL_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -397,7 +478,7 @@
       <option name="initCode" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="directory.pl" type="#PerlConfigurationType" factoryName="Perl" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="practise.pl (1)" type="#PerlConfigurationType" factoryName="Perl" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <option name="alternativeSdkPath" value="" />
       <option name="compileTimeBreakpointsEnabled" value="false" />
       <option name="consoleCharset" value="UTF-8" />
@@ -408,10 +489,10 @@
       <option name="passParentEnvs" value="true" />
       <option name="perlParameters" value="" />
       <option name="programParameters" value="" />
-      <option name="scriptPath" value="$PROJECT_DIR$/Learning/directory.pl" />
+      <option name="scriptPath" value="$PROJECT_DIR$/Learning/Smart/practise.pl" />
       <option name="useAlternativeSdk" value="false" />
       <option name="workingDirectory" value="" />
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Learning/directory.pl" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Learning/Smart/practise.pl" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="PERL_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -462,15 +543,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Perl.directory.pl" />
       <item itemvalue="Perl.basic.pl" />
       <item itemvalue="Perl.practise.pl" />
+      <item itemvalue="Perl.basic.pl (1)" />
+      <item itemvalue="Perl.practise.pl (1)" />
+      <item itemvalue="Perl.UnitList.pl" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Perl.practise.pl (1)" />
+        <item itemvalue="Perl.UnitList.pl" />
+        <item itemvalue="Perl.basic.pl (1)" />
         <item itemvalue="Perl.practise.pl" />
         <item itemvalue="Perl.basic.pl" />
-        <item itemvalue="Perl.directory.pl" />
       </list>
     </recent_temporary>
   </component>
@@ -497,12 +582,14 @@
       <workItem from="1541258125679" duration="3241000" />
       <workItem from="1541294244366" duration="1409000" />
       <workItem from="1541338318461" duration="12317000" />
-      <workItem from="1541426734394" duration="8769000" />
+      <workItem from="1541426734394" duration="9279000" />
+      <workItem from="1541512145025" duration="17066000" />
+      <workItem from="1541599178586" duration="8305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44238000" />
+    <option name="totallyTimeSpent" value="70119000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -514,10 +601,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48380566" visible="true" weight="0.21447721" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48380566" visible="true" weight="0.21983914" />
       <window_info id="Structure" order="1" sideWeight="0.51619434" side_tool="true" weight="0.20375335" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -527,13 +614,13 @@
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4979253" visible="true" weight="0.30070922" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4979253" weight="0.3035461" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49932975" weight="0.3286119" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49932975" weight="0.32765958" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49597856" weight="0.35460994" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49597856" visible="true" weight="0.35460994" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50402147" side_tool="true" weight="0.35602838" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -585,6 +672,15 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>VERBOSE</expression-string>
+        <language-id>Perl5</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 5/bamm-bamm">
@@ -665,16 +761,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/books.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code_style.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -713,25 +799,6 @@
     <entry file="file://$PROJECT_DIR$/Learning/try.pl" />
     <entry file="file://$PROJECT_DIR$/Learning/directory.pm" />
     <entry file="file://$PROJECT_DIR$/Learning/directory.pl" />
-    <entry file="file://$PROJECT_DIR$/Learning/String/basic.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3474">
-          <caret line="193" column="35" selection-start-line="193" selection-start-column="35" selection-end-line="193" selection-end-column="35" />
-          <folding>
-            <element signature="e#85#205#0#Perl5" expanded="true" />
-            <element signature="e#748#868#0#Perl5" expanded="true" />
-            <element signature="e#1263#1383#0#Perl5" expanded="true" />
-            <element signature="e#2135#2255#0#Perl5" expanded="true" />
-            <element signature="e#2716#2771#0#Perl5" expanded="true" />
-            <element signature="e#3256#3376#0#Perl5" expanded="true" />
-            <element signature="e#3705#3825#0#Perl5" expanded="true" />
-            <element signature="e#3892#3899#0#Perl5" expanded="true" />
-            <element signature="e#4862#4919#0#Perl5" expanded="true" />
-            <element signature="e#5212#5231#0#Perl5" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Learning/String/data/numbers.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -739,20 +806,107 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Fun/monger.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Learning/String/data/sortable_hash.pl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/String/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Article/UtilList.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-18">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAN/UnitList/UnitList.pl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning/String/practise.pl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        <state relative-caret-position="-864">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <element signature="e#108#228#0#Perl5" expanded="true" />
+            <element signature="e#2055#2138#0#Perl5" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/String/basic.pl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="34" selection-end-column="38" />
+          <folding>
+            <element signature="e#85#205#0#Perl5" expanded="true" />
+            <element signature="e#1330#1450#0#Perl5" expanded="true" />
+            <element signature="e#3705#3825#0#Perl5" expanded="true" />
+            <element signature="e#4862#4919#0#Perl5" expanded="true" />
+            <element signature="e#5212#5231#0#Perl5" expanded="true" />
+            <element signature="e#5597#5605#0#Perl5" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/Smart/practise.pl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="151" column="57" selection-start-line="151" selection-start-column="57" selection-end-line="151" selection-end-column="57" />
+          <folding>
+            <element signature="e#97#111#0#Perl5" expanded="true" />
+            <element signature="e#525#645#0#Perl5" expanded="true" />
+            <element signature="e#884#903#0#Perl5" expanded="true" />
+            <element signature="e#1828#1848#0#Perl5" expanded="true" />
+            <element signature="e#2402#2447#0#Perl5" expanded="true" />
+            <element signature="e#3048#3064#0#Perl5" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/Smart/basic.pl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="49" column="17" lean-forward="true" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+          <folding>
+            <element signature="e#97#111#0#Perl5" expanded="true" />
+            <element signature="e#501#621#0#Perl5" expanded="true" />
+            <element signature="e#4101#4172#0#Perl5" expanded="true" />
+            <element signature="e#4414#4485#0#Perl5" expanded="true" />
+            <element signature="e#4725#4796#0#Perl5" expanded="true" />
+            <element signature="e#6164#6235#0#Perl5" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
