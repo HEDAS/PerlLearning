@@ -26,9 +26,9 @@ $| = 1;                                                    # 立即刷新缓冲�
 print "习题1" . "\n";
 
 # my $found_it = 0;
-# my $Verbose = $ENV{VERBOSE} // 1;
+# my $Verbose = $ENV{VERBOSE} // 1;     # 如果前面存在就取前面，否则取后面，相当于 ||
 # # $ENV 环境变量。服务器获取从客户端发来的请求，并把其中的GET和POST提交的参数设置为CGI进程的环境变量，这里perl就是通过$ENV使用了这个变量
-# # 1、%ENV即运行环境哈希 2、取PATH环境变量值。 print "PATH is $ENV{PATH}\n";
+# # 1、%ENV即运行环境哈希 2、取PATH环境变量值。 print "PATH is $ENV{PATH}\n"; print $ENV{JAVA_HOME};
 # my $secret = int(1 + rand 100);
 # print "Don't tell anyone, but the secret number is $secret.\n"
 #     if $Verbose;

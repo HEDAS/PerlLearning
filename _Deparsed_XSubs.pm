@@ -518,6 +518,9 @@ package BerkeleyDB::_tiedHash {
 sub FIRSTKEY;
 sub NEXTKEY;
 }
+package CORE::GLOBAL {
+sub exit(;$) ;
+}
 package Carp {
 sub _maybe_isa;
 sub downgrade;
@@ -3107,6 +3110,22 @@ sub clone;
 sub digest;
 sub new;
 }
+package DisplayPtr {
+sub ConnectionNumber;
+sub DefaultGC;
+sub DefaultScreen;
+sub DisplayString;
+sub RootWindow;
+sub ScreenOfDisplay;
+sub XDrawLine;
+sub XDrawRectangle;
+sub XDrawString;
+sub XFlush;
+sub XListFonts;
+sub XLoadFont;
+sub XQueryTree;
+sub XSync;
+}
 package DynaLoader {
 sub CLONE;
 sub boot_DynaLoader;
@@ -3366,6 +3385,10 @@ sub filter_read(;$) ;
 sub real_import($$$) ;
 sub unimport(;$@) ;
 }
+package GC {
+sub Foreground;
+sub new;
+}
 package GD {
 sub LIBGD_VERSION;
 sub VERSION_STRING;
@@ -3506,6 +3529,11 @@ sub unclosedPolygon($$$) ;
 sub useFontConfig($$) ;
 sub wbmp($) ;
 }
+package Guard {
+sub cancel($) ;
+sub guard(&) ;
+sub scope_guard(&) ;
+}
 package HTML::Entities {
 sub UNICODE_SUPPORT() ;
 sub _decode_entities;
@@ -3535,6 +3563,11 @@ sub unbroken_text;
 sub utf8_mode;
 sub xml_mode;
 sub xml_pic;
+}
+package Hash::StoredIterator {
+sub hash_get_iterator;
+sub hash_init_iterator;
+sub hash_set_iterator;
 }
 package Hash::Util {
 sub _clear_placeholders(\%) ;
@@ -8751,6 +8784,15 @@ sub new;
 sub remove_glob;
 sub remove_symbol;
 }
+package PadWalker {
+sub _upcontext;
+sub closed_over;
+sub peek_my;
+sub peek_our;
+sub peek_sub;
+sub set_closed_over;
+sub var_name;
+}
 package Params::Util {
 sub _ARRAY($) ;
 sub _ARRAY0($) ;
@@ -8827,6 +8869,15 @@ sub reftype($) ;
 sub tainted($) ;
 sub unweaken($) ;
 sub weaken($) ;
+}
+package ScreenPtr {
+sub BlackPixelOfScreen;
+sub DefaultGCOfScreen;
+sub HeightMMOfScreen;
+sub HeightOfScreen;
+sub WhitePixelOfScreen;
+sub WidthMMOfScreen;
+sub WidthOfScreen;
 }
 package Socket {
 sub AF_802() ;
@@ -9503,6 +9554,419 @@ sub _mini_mktime($$$$$$) ;
 sub _strftime($$;$) ;
 sub _strptime($$$$) ;
 sub _tzset() ;
+}
+package Tk {
+sub ACTIVE_BG() ;
+sub ALL_EVENTS() ;
+sub AddErrorInfo;
+sub BLACK() ;
+sub BackgroundError;
+sub CancelRepeat;
+sub CheckHash;
+sub ClearErrorInfo;
+sub CreateGenericHandler;
+sub DISABLED() ;
+sub DONT_WAIT() ;
+sub Debug;
+sub DebugHook;
+sub DoOneEvent;
+sub DoWhenIdle;
+sub EnterFocus;
+sub Error;
+sub FILE_EVENTS() ;
+sub Fail;
+sub FirstMenu;
+sub FocusChildren;
+sub FocusOK;
+sub GetFILE;
+sub GetFocusWin;
+sub GetPointerCoords;
+sub IDLE_EVENTS() ;
+sub INDICATOR() ;
+sub ImageNames;
+sub ImageTypes;
+sub IsParentProcess(;@) ;
+sub NORMAL_BG() ;
+sub NeedPreload;
+sub OldEnterMethods;
+sub Preload;
+sub Receive;
+sub RepeatId;
+sub SELECT_BG() ;
+sub SELECT_FG() ;
+sub Selection;
+sub SystemEncoding;
+sub TIMER_EVENTS() ;
+sub TROUGH() ;
+sub TraverseToMenu;
+sub WHITE() ;
+sub WINDOW_EVENTS() ;
+sub WidgetMethod;
+sub _menu;
+sub abort;
+sub after;
+sub bell;
+sub bind;
+sub bindtags;
+sub break;
+sub button;
+sub canvas;
+sub cget;
+sub checkbutton;
+sub clipboard;
+sub configure;
+sub destroy;
+sub entry;
+sub event;
+sub exit(;$) ;
+sub focus;
+sub focusFollowsMouse;
+sub focusNext;
+sub focusPrev;
+sub font;
+sub form;
+sub frame;
+sub getNextFocus;
+sub getPrevFocus;
+sub grab;
+sub grid;
+sub hlist;
+sub image;
+sub interps;
+sub itemstyle;
+sub label;
+sub labelframe;
+sub listbox;
+sub lower;
+sub lsearch;
+sub menubutton;
+sub message;
+sub nbframe;
+sub option;
+sub pack;
+sub panedwindow;
+sub place;
+sub property;
+sub radiobutton;
+sub raise;
+sub scale;
+sub scrollbar;
+sub selection;
+sub spinbox;
+sub tabFocus;
+sub tainted;
+sub tainting;
+sub text;
+sub timeofday;
+sub tixGrid;
+sub tk;
+sub tk_chooseColor;
+sub tk_chooseDirectory;
+sub tk_getOpenFile;
+sub tk_getSaveFile;
+sub tk_messageBox;
+sub tkwait;
+sub tlist;
+sub toplevel;
+sub update;
+sub updateWidgets;
+sub winfo;
+sub wm;
+}
+package Tk::Callback {
+sub Call;
+sub DESTROY;
+sub Substitute;
+sub new;
+}
+package Tk::Canvas {
+sub CanvasBind;
+sub CanvasFocus;
+}
+package Tk::Clipboard {
+sub getSelected;
+}
+package Tk::Derived {
+sub BLACK() ;
+sub NORMAL_BG() ;
+}
+package Tk::DragDrop::Win32Site {
+sub DragAcceptFiles;
+sub DropInfo;
+}
+package Tk::Event {
+sub ALL_EVENTS() ;
+sub CancelIdleCall;
+sub CleanupGlue;
+sub CreateExitHandler;
+sub CreateFileHandler;
+sub CreateTimerHandler;
+sub DONT_WAIT() ;
+sub DeleteFileHandler;
+sub DeleteTimerHandler;
+sub DoOneEvent;
+sub DoWhenIdle;
+sub Exit;
+sub FILE_EVENTS() ;
+sub GetServiceMode;
+sub HandleSignals;
+sub IDLE_EVENTS() ;
+sub QueueEvent;
+sub QueueProcEvent;
+sub ServiceAll;
+sub ServiceEvent;
+sub SetMaxBlockTime;
+sub SetServiceMode;
+sub Sleep;
+sub TIMER_EVENTS() ;
+sub WINDOW_EVENTS() ;
+sub dGetTime;
+}
+package Tk::Event::IO {
+sub DESTROY;
+sub EXCEPTION() ;
+sub READABLE() ;
+sub TIEHANDLE;
+sub UNTIE;
+sub WRITABLE() ;
+sub debug;
+sub handle;
+sub handler;
+sub has_exception;
+sub is_readable;
+sub is_writable;
+sub unwatch;
+sub wait;
+}
+package Tk::Event::Source {
+sub check;
+sub delete;
+sub new;
+sub setup;
+}
+package Tk::Font {
+sub DESTROY;
+sub PostscriptFontName;
+}
+package Tk::FontRankInfo {
+sub Xname($) ;
+sub bold($) ;
+sub encoding($) ;
+sub family($) ;
+sub foundary($) ;
+sub italic($) ;
+sub size($) ;
+}
+package Tk::Frame {
+sub AddScrollbars;
+sub FindMenu;
+sub freeze_on_map;
+sub label;
+sub labelPack;
+sub labelVariable;
+sub packscrollbars;
+sub queuePack;
+sub sbset;
+sub scrollbars;
+}
+package Tk::IO {
+sub make_nonblock($$$) ;
+sub read($$$;$) ;
+sub readline($) ;
+sub restore_mode($$) ;
+}
+package Tk::Interp {
+sub DESTROY;
+}
+package Tk::JPEG {
+sub DoOneEvent;
+sub exit(;$) ;
+}
+package Tk::Listbox {
+sub AutoScan;
+sub BeginExtend;
+sub BeginSelect;
+sub BeginToggle;
+sub ButtonRelease_1;
+sub CLEAR;
+sub Cancel;
+sub Cntrl_End;
+sub Cntrl_Home;
+sub Cntrl_backslash;
+sub DELETE;
+sub DataExtend;
+sub EXISTS;
+sub EXTEND;
+sub ExtendUpDown;
+sub FETCH;
+sub FETCHSIZE;
+sub Getselected;
+sub Motion;
+sub POP;
+sub PUSH;
+sub SHIFT;
+sub SPLICE;
+sub STORE;
+sub SelectAll;
+sub SetList;
+sub TIEARRAY;
+sub TIESCALAR;
+sub UNSHIFT;
+sub UpDown;
+sub clipboardPaste;
+sub deleteSelected;
+sub getSelected;
+sub xyIndex;
+}
+package Tk::MainWindow {
+sub Count;
+sub Create;
+sub Synchronize;
+}
+package Tk::PNG {
+sub DoOneEvent;
+sub exit(;$) ;
+}
+package Tk::Pixmap {
+sub Install;
+}
+package Tk::Scale {
+sub Activate;
+sub ButtonDown;
+sub ButtonUp;
+sub ControlPress;
+sub Drag;
+sub EndDrag;
+sub Enter;
+sub Increment;
+sub Leave;
+}
+package Tk::Scrollbar {
+sub ButtonDown;
+sub ButtonUp;
+sub Drag;
+sub EndDrag;
+sub Enter;
+sub Leave;
+sub Motion;
+sub ScrlByPages;
+sub ScrlByUnits;
+sub ScrlToPos;
+sub ScrlTopBottom;
+sub Select;
+sub StartDrag;
+}
+package Tk::Toplevel {
+sub FG_BindIn;
+sub FG_BindOut;
+sub FG_Create;
+sub FG_Destroy;
+sub FG_In;
+sub FG_Out;
+}
+package Tk::Widget {
+sub ASkludge;
+sub AddOption;
+sub AltKeyInDialog;
+sub AmpWidget;
+sub BindClientMessage;
+sub Bitmap;
+sub Button;
+sub Checkbutton;
+sub Class;
+sub ClearSelection;
+sub Colormap;
+sub Containing;
+sub DefineBitmap;
+sub Depth;
+sub DisableButtonEvents;
+sub Display;
+sub DisplayName;
+sub FindAltKeyTarget;
+sub GeometryRequest;
+sub GetAtomName;
+sub GetBitmap;
+sub GetOption;
+sub GetRootCoords;
+sub GetVRootGeometry;
+sub Grab;
+sub Height;
+sub InternAtom;
+sub InternalBorderWidth;
+sub IsMapped;
+sub IsTopLevel;
+sub IsWidget;
+sub Label;
+sub Labelframe;
+sub MainWindow;
+sub MaintainGeometry;
+sub MakeAtom;
+sub MakeWindowExist;
+sub ManageGeometry;
+sub MapWindow;
+sub MasterMenu;
+sub Menu;
+sub Message;
+sub MoveResizeWindow;
+sub MoveToplevelWindow;
+sub MoveWindow;
+sub Name;
+sub Optionmenu;
+sub Panedwindow;
+sub Parent;
+sub PassEvent;
+sub PathName;
+sub PointToWindow;
+sub Radiobutton;
+sub ReqHeight;
+sub ReqWidth;
+sub ResizeWindow;
+sub RestoreFocusGrab;
+sub Screen;
+sub ScreenNumber;
+sub SelectionGet;
+sub SendClientMessage;
+sub SetAmpText;
+sub SetAppName;
+sub SetClass;
+sub SetFocusGrab;
+sub SetGrid;
+sub Spinbox;
+sub UnderlineAmpersand;
+sub Ungrab;
+sub UnmaintainGeometry;
+sub UnmanageGeometry;
+sub UnmapWindow;
+sub UnsetGrid;
+sub Visual;
+sub Widget;
+sub Width;
+sub WindowId;
+sub WindowXY;
+sub X;
+sub XRaiseWindow;
+sub XSync;
+sub Y;
+sub _object;
+sub bindDump;
+sub cget_self;
+sub clipboardKeysyms;
+sub configure_self;
+sub pathname;
+sub tmpLine;
+}
+package Tk::Wm {
+sub AnchorAdjust;
+sub FullScreen;
+sub Popup;
+sub Post;
+sub iconposition;
+}
+package Tk::X {
+sub constant($$) ;
+}
+package Tk::Xrm {
+sub import;
 }
 package Try::Tiny {
 sub _subname;
@@ -10232,6 +10696,10 @@ sub _RegSetValueExA;
 sub _RegSetValueExW;
 sub _RegSetValueW;
 sub _regLastError;
+}
+package XEvent {
+sub DESTROY;
+sub Info;
 }
 package XML::LibXML {
 sub AUTOLOAD;

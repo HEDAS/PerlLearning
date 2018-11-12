@@ -4,14 +4,11 @@
     <option name="perlInterpreter" value="Perl v5.28.0" />
   </component>
   <component name="Perl5XSubsState">
-    <option name="isActual" value="false" />
     <option name="myFilesMap">
       <map>
         <entry key="E:/Software/Strawberry/perl/lib/auto/B/B.xs.dll" value="1529733430000" />
         <entry key="E:/Software/Strawberry/perl/lib/auto/Compress/Raw/Bzip2/Bzip2.xs.dll" value="1529733790000" />
         <entry key="E:/Software/Strawberry/perl/lib/auto/Compress/Raw/Zlib/Zlib.xs.dll" value="1529733796000" />
-        <entry key="E:/Software/Strawberry/perl/lib/auto/Cwd/Cwd.xs.dll" value="1529733426000" />
-        <entry key="E:/Software/Strawberry/perl/lib/auto/Data/Dumper/Dumper.xs.dll" value="1529733442000" />
         <entry key="E:/Software/Strawberry/perl/lib/auto/Devel/PPPort/PPPort.xs.dll" value="1529733806000" />
         <entry key="E:/Software/Strawberry/perl/lib/auto/Devel/Peek/Peek.xs.dll" value="1529733450000" />
         <entry key="E:/Software/Strawberry/perl/lib/auto/Digest/MD5/MD5.xs.dll" value="1529733452000" />
@@ -60,7 +57,35 @@
         <entry key="E:/Software/Strawberry/perl/lib/auto/threads/shared/shared.xs.dll" value="1529733574000" />
         <entry key="E:/Software/Strawberry/perl/lib/auto/threads/threads.xs.dll" value="1529733572000" />
         <entry key="E:/Software/Strawberry/perl/lib/auto/version/vxs/vxs.xs.dll" value="1529734068000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Cwd/Cwd.xs.dll" value="1541778774000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Data/Dumper/Dumper.xs.dll" value="1541778723000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Guard/Guard.xs.dll" value="1541777314000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Hash/StoredIterator/StoredIterator.xs.dll" value="1541428418000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/PadWalker/PadWalker.xs.dll" value="1541428434000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/PerlIO/utf8_strict/utf8_strict.xs.dll" value="1541549025000" />
         <entry key="E:/Software/Strawberry/perl/site/lib/auto/Readonly/XS/XS.xs.dll" value="1541239814000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Text/CSV_XS/CSV_XS.xs.dll" value="1541777935000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Canvas/Canvas.xs.dll" value="1541776664000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Compound/Compound.xs.dll" value="1541776662000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/DragDrop/Win32Site/Win32Site.xs.dll" value="1541776659000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Entry/Entry.xs.dll" value="1541776654000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Event/Event.xs.dll" value="1541776652000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/HList/HList.xs.dll" value="1541776643000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/IO/IO.xs.dll" value="1541776641000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/JPEG/JPEG.xs.dll" value="1541776638000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Listbox/Listbox.xs.dll" value="1541776634000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Menubutton/Menubutton.xs.dll" value="1541776632000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/NBFrame/NBFrame.xs.dll" value="1541776630000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/PNG/PNG.xs.dll" value="1541776627000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Pixmap/Pixmap.xs.dll" value="1541776610000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Scale/Scale.xs.dll" value="1541776624000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Scrollbar/Scrollbar.xs.dll" value="1541776621000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/TList/TList.xs.dll" value="1541776619000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Text/Text.xs.dll" value="1541776616000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/TixGrid/TixGrid.xs.dll" value="1541776613000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Tk.xs.dll" value="1541776676000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/X/X.xs.dll" value="1541776604000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Xlib/Xlib.xs.dll" value="1541776606000" />
         <entry key="E:/Software/Strawberry/perl/vendor/lib/auto/B/Hooks/OP/Check/Check.xs.dll" value="1529738346000" />
         <entry key="E:/Software/Strawberry/perl/vendor/lib/auto/B/Utils/Utils.xs.dll" value="1529738550000" />
         <entry key="E:/Software/Strawberry/perl/vendor/lib/auto/BerkeleyDB/BerkeleyDB.xs.dll" value="1529734334000" />
@@ -146,7 +171,6 @@
         <entry key="E:/Software/Strawberry/perl/vendor/lib/auto/Template/Stash/XS/XS.xs.dll" value="1529738276000" />
         <entry key="E:/Software/Strawberry/perl/vendor/lib/auto/Term/ReadKey/ReadKey.xs.dll" value="1529735172000" />
         <entry key="E:/Software/Strawberry/perl/vendor/lib/auto/Test/LeakTrace/LeakTrace.xs.dll" value="1529737614000" />
-        <entry key="E:/Software/Strawberry/perl/vendor/lib/auto/Text/CSV_XS/CSV_XS.xs.dll" value="1529735898000" />
         <entry key="E:/Software/Strawberry/perl/vendor/lib/auto/Text/Soundex/Soundex.xs.dll" value="1529734598000" />
         <entry key="E:/Software/Strawberry/perl/vendor/lib/auto/Time/Moment/Moment.xs.dll" value="1529737586000" />
         <entry key="E:/Software/Strawberry/perl/vendor/lib/auto/Unicode/LineBreak/LineBreak.xs.dll" value="1529738124000" />
