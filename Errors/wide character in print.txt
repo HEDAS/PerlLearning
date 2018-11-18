@@ -1,0 +1,21 @@
+三种方式解决“Wide character in print”
+1、binmode STDOUT, ":utf8";
+## binmode(STDOUT, ":encoding(gbk)"); # 如果在win的cmd中出现乱码
+因为程序本身是用utf8编码的（可以用use utf;明示给Perl）。这句话就是告诉Perl输出是utf8编码的。
+
+2、use utf8::all;
+当然，我们需要先安装这个模块utf8::all。
+一劳永逸，所有涉及字符集编码的地方，此模版都会帮你设置为utf8
+
+3、encode('utf8', $_);
+# ==========================================
+# 如果在win的cmd中出现乱码
+use Encode;
+my $str='你好';
+$str = encode("gbk", decode("utf-8", $str));
+# ==========================================
+嗯。需要先use Encode; 对CPU有不小的开销。
+
+4、原因
+宽字节这事，是从windows C++发祥的。
+我理解是懒得认真处理字符集问题的一种偷懒方式。将多个字节绑定为单一结构体内，以期达到hack式修复的目的。

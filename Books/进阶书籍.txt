@@ -1,2 +1,6 @@
 Mastering Regular Expressions
 Intermediate Perl
+Mastering Perl
+Programming Perl
+Learning Perl Student Workbook
+Perl5 Pocket Reference

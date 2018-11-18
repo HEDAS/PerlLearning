@@ -1,0 +1,12 @@
+工具
+awk、shell、grep、cut、sort、sed、stty
+
+可执行程序
+chmod a+x 文件名
+chmod 755 文件名
+运行
+./文件名（test）
+为了防止与系统中的test程序重名，指定运行本目录下的这个test程序
+
+路径
+usr/bin/perl、usr/local/bin/perl

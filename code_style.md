@@ -8,3 +8,6 @@
   比如：code_style、io_demo。
   `
 - 
+
+## 变量内插
+- 一律采用${name}这样的写法

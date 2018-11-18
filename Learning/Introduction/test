@@ -1,0 +1,4 @@
+#!E:\Software\Strawberry\perl\bin\perl.exe -w
+print "Hello, world!\n";
+
+# 终端执行perl Learning/Introduction/test
