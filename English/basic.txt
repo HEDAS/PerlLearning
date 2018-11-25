@@ -104,3 +104,47 @@ sensitivity
 感知
 qualifier
 限定符
+procedure
+过程
+calling
+调用
+argument
+参数
+nested
+嵌套的
+lexical
+私有的
+scoped
+有限作用域的
+strictly typed
+强类型
+high-watermark
+水高线
+scope
+作用域
+pragma
+编译指令
+invocation
+祈祷
+pipeline
+管道
+conversion
+转换
+carriage-return/linefeed
+CRLF回车换行
+discipline
+规则
+associative
+关联性的
+curly braces
+花括号{}
+square brackets
+方括号[]
+unwinding
+展开
+autovivification
+自动延展
+bareword
+裸字
+iterator
+迭代器

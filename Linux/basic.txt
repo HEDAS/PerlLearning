@@ -1,5 +1,5 @@
 工具
-awk、shell、grep、cut、sort、sed、stty
+awk、shell、grep、cut、sort、sed、stty cat lpr
 
 可执行程序
 chmod a+x 文件名
@@ -10,3 +10,16 @@ chmod 755 文件名
 
 路径
 usr/bin/perl、usr/local/bin/perl
+
+cat fred barney | sort | ./your_program | grep something | lpr
+用cat将fred和barney每一行作为输入，进行sort，再经过your_program处理，由grep过滤一些东西，再用打印机打印出来
+通常用grep过滤掉程序中一些警告，错误信息
+
+环境变量
+Bourne shell
+    $ CHARACTER=Fred; export CHARACTER
+    $ export CHARACTER=Fred
+csh
+    % setenv CHARACTER Fred
+DOS/Windows
+    > set CHARACTER=Fred

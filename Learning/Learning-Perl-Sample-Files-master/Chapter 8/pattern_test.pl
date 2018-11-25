@@ -1,6 +1,8 @@
 #!/usr/bin/perl -w
 
 use strict;
+use warnings FATAL => 'all';
+
 
 # This next line of code is used when you get to Chapter 9.
 my $what = 'fred|barney';
