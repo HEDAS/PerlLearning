@@ -1,5 +1,5 @@
 工具
-awk、shell、grep、cut、sort、sed、stty cat lpr
+awk、shell、grep、cut、sort、sed、stty、cat、lpr、procmail
 
 可执行程序
 chmod a+x 文件名
@@ -23,3 +23,10 @@ csh
     % setenv CHARACTER Fred
 DOS/Windows
     > set CHARACTER=Fred
+
+cd
+    cd ~：默认回到自己主目录
+    cd ~ 用户名：去到某个用户名的主目录
+
+文件名通配
+    echo *.pm 输出所有pm文件

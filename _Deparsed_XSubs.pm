@@ -9393,6 +9393,9 @@ sub getline;
 sub getline_all;
 sub print;
 }
+package Text::Levenshtein::XS {
+sub xs_distance($$$) ;
+}
 package Text::Soundex {
 sub soundex;
 sub soundex_xs;
@@ -10189,6 +10192,24 @@ sub DESTROY;
 sub GetOriginalFunctionPtr;
 sub Unpatch;
 sub new;
+}
+package Win32::Clipboard {
+sub Empty;
+sub EnumFormats;
+sub GetAs;
+sub GetBitmap;
+sub GetFiles;
+sub GetFormatName;
+sub GetText;
+sub IsBitmap;
+sub IsFiles;
+sub IsFormatAvailable;
+sub IsText;
+sub Set;
+sub StartClipboardViewer;
+sub StopClipboardViewer;
+sub WaitForChange;
+sub constant;
 }
 package Win32::Console {
 sub Alloc;

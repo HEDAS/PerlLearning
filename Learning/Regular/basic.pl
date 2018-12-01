@@ -16,22 +16,22 @@ use utf8::all;
 
 # 简单模式，匹配$_，只需把模式写在//中即可
 $_ = "yabba dabba doo 1 2 3";
-if ( /abba/ ) {
+if (/abba/) {
     print "It matched!\n";
 }
 
 # 可以使用反斜线转义：\t——制表符
 # 每个字符附带着额外的Unicode属性信息，如\p{Space}——空白属性的字符
-if ( /\p{Space}/ ) {
+if (/\p{Space}/) {
     print "The string has some whitespace.\n";
 }
 
-if ( /\p{Digit}/ ) {
+if (/\p{Digit}/) {
     print "The String has a digit.\n";
 }
 
 # 十六进制的字符集合：[0-9A-Fa-f]或者\p{Hex}
-if ( /\p{Hex}\p{Hex}/ ) {
+if (/\p{Hex}\p{Hex}/) {
     print "The string has a pair of hex digits.\n";
 }
 
@@ -40,11 +40,11 @@ if (/\P{Space}/) {
     print "The string has one or more non-whitespace characters.\n";
 }
 
-# 元字符，用转义表示其原来意思（\.）：
+# 元字符，用转义表示其原来意思（\\ \.）：
 # . 可以匹配任意一个字符的通配符，但换行符（\n）除外
 # \ 用于转义，\\表示其本身——"\"
 $_ = 'a real \ backslash';
-if ( /\\/ ) {
+if (/\\/) {
     print "It matched!\n";
 }
 
@@ -65,26 +65,26 @@ $a = "\n";
 print "Yes\n" if $a =~ /(fred)*/;
 
 $_ = "abba";
-if ( /(.)\1/ ) {
+if (/(.)\1/) {
     print "It matched same character next to itself!\n";
 }
 
 $_ = "yabba dabba doo";
-if ( /y(....) d\1/ ) {
+if (/y(....) d\1/) {
     print "It match the same after y and d!\n";
 }
-if ( /y((.)(.)\3\2) d\1/ ) {
+if (/y((.)(.)\3\2) d\1/) {
     print "It matched!\n";
 }
 
 # TODO: /x修饰符
 $_ = "aa11bb";
-if ( /(.)\g{1}11/ ) {
+if (/(.)\g{1}11/) {
     print "It matched: \\g{1}!\n";
 }
 
 $_ = "xaa11bb";
-if ( /(.)(.)\g{-1}11(.)/ ) {        # 这里不是指最右边的左括号！！而是中间那个
+if (/(.)(.)\g{-1}11(.)/) { # 这里不是指最右边的左括号！！而是中间那个
     print "It matched: \\g{-1}!\n";
 }
 
@@ -112,10 +112,10 @@ if ( /(.)(.)\g{-1}11(.)/ ) {        # 这里不是指最右边的左括号！！
 # 16. [\d\D]可以匹配任何字符，包括换行。而[^\d\D]什么都不会匹配，另外包含的也不匹配[^\d\D]perl也是什么都不匹配
 
 $_ = "The HAL-9000 requires authorization to continue.";
-if ( /HAL-[0-9]+/ ) {
+if (/HAL-[0-9]+/) {
     print "The string mentions some model of HAL computer.[0-9]\n";
 }
 
-if ( /HAL-[\d]+/a ) {        # 跟\d+的意思是一样的，可以匹配阿拉伯Arabic、蒙古Mongolian、泰文Thai计数，但中文计数匹配不了
-    print "The string mentions some model of HAL computer.[\\d]+\n";    # 要用转义\\d
+if (/HAL-[\d]+/a) {                                                  # 跟\d+的意思是一样的，可以匹配阿拉伯Arabic、蒙古Mongolian、泰文Thai计数，但中文计数匹配不了
+    print "The string mentions some model of HAL computer.[\\d]+\n"; # 要用转义\\d
 }

@@ -65,6 +65,7 @@
         <entry key="E:/Software/Strawberry/perl/site/lib/auto/PerlIO/utf8_strict/utf8_strict.xs.dll" value="1541549025000" />
         <entry key="E:/Software/Strawberry/perl/site/lib/auto/Readonly/XS/XS.xs.dll" value="1541239814000" />
         <entry key="E:/Software/Strawberry/perl/site/lib/auto/Text/CSV_XS/CSV_XS.xs.dll" value="1541777935000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Text/Levenshtein/XS/XS.xs.dll" value="1543068431000" />
         <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Canvas/Canvas.xs.dll" value="1541776664000" />
         <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Compound/Compound.xs.dll" value="1541776662000" />
         <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/DragDrop/Win32Site/Win32Site.xs.dll" value="1541776659000" />
@@ -86,6 +87,7 @@
         <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Tk.xs.dll" value="1541776676000" />
         <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/X/X.xs.dll" value="1541776604000" />
         <entry key="E:/Software/Strawberry/perl/site/lib/auto/Tk/Xlib/Xlib.xs.dll" value="1541776606000" />
+        <entry key="E:/Software/Strawberry/perl/site/lib/auto/Win32/Clipboard/Clipboard.xs.dll" value="1543593333000" />
         <entry key="E:/Software/Strawberry/perl/vendor/lib/auto/B/Hooks/OP/Check/Check.xs.dll" value="1529738346000" />
         <entry key="E:/Software/Strawberry/perl/vendor/lib/auto/B/Utils/Utils.xs.dll" value="1529738550000" />
         <entry key="E:/Software/Strawberry/perl/vendor/lib/auto/BerkeleyDB/BerkeleyDB.xs.dll" value="1529734334000" />

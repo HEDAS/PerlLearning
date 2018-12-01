@@ -9,6 +9,8 @@
       <w>dwim</w>
       <w>flintstone</w>
       <w>passwd</w>
+      <w>predecrement</w>
+      <w>preincrement</w>
       <w>rindex</w>
       <w>smartmatch</w>
       <w>substr</w>
