@@ -2,198 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06901da0-1062-483a-afc6-1f0656059cf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Effective/CPAN/basic.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/Control/practise.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/File/basic.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/File/practise.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/Module/cpanm.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/Module/practise.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/Regular/advanced_practise.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/Regular/fred03.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/text2.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PerlLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PerlLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/cucud.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/cucud.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/perl5local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/perl5local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/perl5shared.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/perl5shared.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/test.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/text4.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Books/进阶书籍.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Books/进阶书籍.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/.licensizer.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/Changes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/MANIFEST" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/MANIFEST.SKIP" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/META.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/META.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/MYMETA.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/MYMETA.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/Makefile.PL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/5005it.pl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/L4pResurrectable.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/benchmarks/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/benchmarks/simple" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/color" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/dupe-warning.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/jabber.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/l4p-tmpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/log4j-file-append-java.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/log4j-file-append-perl.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/log4j-manual-1.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/log4j-manual-2.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/log4j-manual-3.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/log4j-utf8.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/newsyslog-test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/override_appender" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/prototype" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/syslog.pl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/eg/yamlparser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/ldap/log4perl-2.ldif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/ldap/log4perl-unittest.ldif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/ldap/testload.ldif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Appender.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Appender/Buffer.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Appender/DBI.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Appender/File.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Appender/Limit.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Appender/RRDs.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Appender/Screen.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Appender/ScreenColoredLevels.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Appender/Socket.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Appender/String.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Appender/Synchronized.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Appender/TestArrayBuffer.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Appender/TestBuffer.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Appender/TestFileCreeper.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Catalyst.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Config.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Config/BaseConfigurator.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Config/DOMConfigurator.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Config/PropertyConfigurator.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Config/Watch.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/DateFormat.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/FAQ.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Filter.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Filter/Boolean.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Filter/LevelMatch.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Filter/LevelRange.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Filter/MDC.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Filter/StringMatch.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/InternalDebug.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/JavaMap.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/JavaMap/ConsoleAppender.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/JavaMap/FileAppender.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/JavaMap/JDBCAppender.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/JavaMap/NTEventLogAppender.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/JavaMap/RollingFileAppender.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/JavaMap/SyslogAppender.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/JavaMap/TestBuffer.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Layout.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Layout/NoopLayout.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Layout/PatternLayout.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Layout/PatternLayout/Multiline.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Layout/SimpleLayout.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Level.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Logger.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/MDC.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/NDC.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Resurrector.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Util.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Util/Semaphore.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/lib/Log/Log4perl/Util/TimeTracker.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/001Level.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/002Logger.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/003Layout-Rr.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/003Layout.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/004Config.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/005Config-Perl.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/006Config-Java.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/007LogPrio.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/008ConfCat.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/009Deuce.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/010JConsole.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/011JFile.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/012Deeper.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/013Bench.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/014ConfErrs.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/015fltmsg.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/016Export.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/017Watch.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/018Init.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/019Warn.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/020Easy.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/020Easy2.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/021AppThres.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/022Wrap.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/023Date.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/024WarnDieCarp.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/025CustLevels.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/026FileApp.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/027Watch2.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/027Watch3.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/027Watch4.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/028Additivity.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/029SysWide.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/030LDLevel.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/031NDC.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/032JRollFile.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/033UsrCspec.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/034DBI.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/035JDBCAppender.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/036JSyslog.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/037JWin32Event.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/038XML-DOM1.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/039XML-DOM2.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/040Filter.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/041SafeEval.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/042SyncApp.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/043VarSubst.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/044XML-Filter.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/045Composite.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/046RRDs.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/048lwp.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/049Unhide.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/050Buffer.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/051Extra.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/052Utf8.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/053Resurrect.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/054Subclass.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/055AppDestroy.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/056SyncApp2.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/057MsgChomp.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/058Warnings.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/059Wrapper.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/060Initialized.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/061Multiline.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/062InitHash.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/063LoggerRemove.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/064RealClass.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/065Undef.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/066SQLite.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/067Exception.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/068MultilineIndented.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/069MoreMultiline.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/070UTCDate.t" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/compare.pl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/deeper1.expected" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/deeper6.expected" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/deeper7.expected" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/lib/Log4perlInternalTest.pm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/t/testdisp.pl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/xml/log4j-1.2.dtd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPAN/Downloads/Log-Log4perl-1.49/xml/log4perl.dtd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/English/basic.txt" beforeDir="false" afterPath="$PROJECT_DIR$/English/basic.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning/Control/basic.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Control/basic.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 10/lnr_example.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Control/lnr_example.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning/Learning-Perl-Sample-Files-master/Chapter 9/perlfunc.pod" beforeDir="false" afterPath="$PROJECT_DIR$/lib/perlfunc.pod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning/Module/basic.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Module/basic.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning/Regular/advanced.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Regular/advanced.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Test/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/text.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Test/text.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trick.md" beforeDir="false" afterPath="$PROJECT_DIR$/trick.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/Directory/basic.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Directory/basic.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linux/basic.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/basic.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -225,31 +40,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="pl" value="6133" />
-          <entry key="txt" value="86" />
+          <entry key="pl" value="8253" />
+          <entry key="txt" value="426" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="86" />
-          <entry key="Perl5 script" value="6133" />
+          <entry key="PLAIN_TEXT" value="426" />
+          <entry key="Perl5 script" value="8253" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="pl" value="4" />
+          <entry key="new" value="1" />
+          <entry key="old" value="1" />
+          <entry key="pl" value="6" />
           <entry key="pm" value="2" />
           <entry key="pod" value="3" />
           <entry key="test" value="1" />
-          <entry key="txt" value="2" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="PLAIN_TEXT" value="8" />
           <entry key="POD file" value="3" />
           <entry key="Perl5 package" value="2" />
-          <entry key="Perl5 script" value="4" />
+          <entry key="Perl5 script" value="6" />
         </counts>
       </usages-collector>
     </session>
@@ -259,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/English/basic.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="225" column="2" selection-start-line="225" selection-start-column="2" selection-end-line="225" selection-end-column="2" />
+            <state relative-caret-position="165">
+              <caret line="216" column="18" lean-forward="true" selection-start-line="216" selection-start-column="18" selection-end-line="216" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -274,38 +91,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning/Module/practise.pl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="72" column="2" lean-forward="true" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="44" />
-              <folding>
-                <element signature="e#495#512#0#Perl5" expanded="true" />
-                <element signature="e#852#875#0#Perl5" expanded="true" />
-                <element signature="e#1103#1118#0#Perl5" expanded="true" />
-                <element signature="e#1546#1559#0#Perl5" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Learning/File/practise.pl">
+        <entry file="file://$PROJECT_DIR$/Learning/Directory/basic.pl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+            <state relative-caret-position="308">
+              <caret line="203" column="5" lean-forward="true" selection-start-line="203" selection-start-column="5" selection-end-line="203" selection-end-column="5" />
               <folding>
-                <element signature="e#495#512#0#Perl5" expanded="true" />
+                <element signature="e#76#85#0#Perl5" expanded="true" />
+                <element signature="e#533#653#0#Perl5" expanded="true" />
+                <element signature="e#1569#1637#0#Perl5" expanded="true" />
+                <element signature="e#1846#1902#0#Perl5" expanded="true" />
+                <element signature="e#2691#2731#0#Perl5" expanded="true" />
+                <element signature="e#3868#3928#0#Perl5" expanded="true" />
+                <element signature="e#5892#5900#0#Perl5" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Effective/File/basic.pl">
+        <entry file="file://$PROJECT_DIR$/Test/text4.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Linux/basic.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-107">
-              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            <state relative-caret-position="376">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -394,8 +207,6 @@
         <option value="$PROJECT_DIR$/Tools/ClipboardFast/English/words.txt" />
         <option value="$PROJECT_DIR$/Mojolicious/start.pl" />
         <option value="$PROJECT_DIR$/Mojolicious/basic.pl" />
-        <option value="$PROJECT_DIR$/Linux/basic.txt" />
-        <option value="$PROJECT_DIR$/Learning/Directory/basic.pl" />
         <option value="$PROJECT_DIR$/Learning/Regular/intermidiate.pl" />
         <option value="$PROJECT_DIR$/Learning/Regular/intermidiate_practise.pl" />
         <option value="$PROJECT_DIR$/Effective/CPAN/basic.pl" />
@@ -411,12 +222,14 @@
         <option value="$PROJECT_DIR$/trick.md" />
         <option value="$PROJECT_DIR$/Learning/Control/practise.pl" />
         <option value="$PROJECT_DIR$/Learning/Module/cpanm.pl" />
-        <option value="$PROJECT_DIR$/Books/进阶书籍.txt" />
         <option value="$PROJECT_DIR$/Learning/Module/basic.pl" />
-        <option value="$PROJECT_DIR$/Learning/Module/practise.pl" />
-        <option value="$PROJECT_DIR$/English/basic.txt" />
         <option value="$PROJECT_DIR$/Learning/File/basic.pl" />
         <option value="$PROJECT_DIR$/Learning/File/practise.pl" />
+        <option value="$PROJECT_DIR$/Learning/Module/practise.pl" />
+        <option value="$PROJECT_DIR$/Books/进阶书籍.txt" />
+        <option value="$PROJECT_DIR$/English/basic.txt" />
+        <option value="$PROJECT_DIR$/Linux/basic.txt" />
+        <option value="$PROJECT_DIR$/Learning/Directory/basic.pl" />
       </list>
     </option>
   </component>
@@ -627,24 +440,12 @@
             <path>
               <item name="PerlLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="PerlLearning" type="b34af813:PerlTreeStructureProvider$1" />
-              <item name="Books" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PerlLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PerlLearning" type="b34af813:PerlTreeStructureProvider$1" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PerlLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="PerlLearning" type="b34af813:PerlTreeStructureProvider$1" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="File" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PerlLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PerlLearning" type="b34af813:PerlTreeStructureProvider$1" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Learning-Perl-Sample-Files-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Linux" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PerlLearning" type="b2602c69:ProjectViewProjectNode" />
@@ -661,7 +462,7 @@
     <property name="SearchEverywhereHistoryKey" value="perl -le&#9;null&#9;null&#10;从头&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543795080739" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543878030353" />
     <property name="last_opened_file_path" value="E:/Software/Strawberry/perl/lib/Perl" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -698,7 +499,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Perl.basic.pl (2)">
+  <component name="RunManager" selected="Perl.basic.pl (1)">
     <configuration default="true" type="#PerlConfigurationType" factoryName="Perl" show_console_on_std_err="false" show_console_on_std_out="false">
       <option name="alternativeSdkPath" value="" />
       <option name="compileTimeBreakpointsEnabled" value="false" />
@@ -746,6 +547,38 @@
       <option name="useAlternativeSdk" value="false" />
       <option name="workingDirectory" value="" />
       <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Learning/Regular/advanced.pl" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="PERL_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ENVS">
+        <map />
+      </option>
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="CHARSET" value="UTF-8" />
+      <option name="USE_ALTERNATIVE_SDK" value="false" />
+      <option name="ALTERNATIVE_SDK_PATH" value="" />
+      <option name="scriptCharset" value="utf8" />
+      <option name="startMode" value="RUN" />
+      <option name="isNonInteractiveModeEnabled" value="false" />
+      <option name="isCompileTimeBreakpointsEnabled" value="false" />
+      <option name="initCode" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="basic.pl (1)" type="#PerlConfigurationType" factoryName="Perl" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="alternativeSdkPath" value="" />
+      <option name="compileTimeBreakpointsEnabled" value="false" />
+      <option name="consoleCharset" value="UTF-8" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="nonInteractiveModeEnabled" value="false" />
+      <option name="passParentEnvs" value="true" />
+      <option name="perlParameters" value="" />
+      <option name="programParameters" value="" />
+      <option name="scriptPath" value="$PROJECT_DIR$/Learning/Directory/basic.pl" />
+      <option name="useAlternativeSdk" value="false" />
+      <option name="workingDirectory" value="" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Learning/Directory/basic.pl" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="PERL_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -859,47 +692,16 @@
       <option name="initCode" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practise.pl" type="#PerlConfigurationType" factoryName="Perl" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <option name="alternativeSdkPath" value="" />
-      <option name="compileTimeBreakpointsEnabled" value="false" />
-      <option name="consoleCharset" value="UTF-8" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="nonInteractiveModeEnabled" value="false" />
-      <option name="passParentEnvs" value="true" />
-      <option name="perlParameters" value="" />
-      <option name="programParameters" value="" />
-      <option name="scriptPath" value="$PROJECT_DIR$/Learning/Control/practise.pl" />
-      <option name="useAlternativeSdk" value="false" />
-      <option name="workingDirectory" value="" />
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Learning/Control/practise.pl" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="PERL_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="ENVS">
-        <map />
-      </option>
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="CHARSET" value="UTF-8" />
-      <option name="USE_ALTERNATIVE_SDK" value="false" />
-      <option name="ALTERNATIVE_SDK_PATH" value="" />
-      <option name="scriptCharset" value="utf8" />
-      <option name="startMode" value="RUN" />
-      <option name="isNonInteractiveModeEnabled" value="false" />
-      <option name="isCompileTimeBreakpointsEnabled" value="false" />
-      <option name="initCode" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Perl.advanced.pl" />
       <item itemvalue="Perl.basic.pl" />
-      <item itemvalue="Perl.practise.pl" />
       <item itemvalue="Perl.practise.pl (1)" />
       <item itemvalue="Perl.basic.pl (2)" />
+      <item itemvalue="Perl.basic.pl (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Perl.basic.pl (1)" />
         <item itemvalue="Perl.basic.pl (2)" />
         <item itemvalue="Perl.practise.pl (1)" />
         <item itemvalue="Perl.basic.pl" />
@@ -971,7 +773,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48380566" visible="true" weight="0.18498659" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48380566" visible="true" weight="0.14209116" />
       <window_info id="Structure" order="1" sideWeight="0.51619434" side_tool="true" weight="0.20375335" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -981,13 +783,13 @@
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4979253" weight="0.27659574" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4979253" visible="true" weight="0.27659574" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49932975" weight="0.2070922" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49463806" visible="true" weight="0.34893617" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49463806" weight="0.34893617" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5053619" side_tool="true" weight="0.3531915" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Dependency Viewer" order="12" weight="0.32907802" />
@@ -1066,36 +868,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Learning/Regular/practise.pl" />
-    <entry file="file://$PROJECT_DIR$/Learning/Regular/pattern_test.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning/Regular/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning/Regular/Error.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="81" lean-forward="true" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning/Regular/knowledge.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning/Regular/basic_practise.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1091" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Learning/Smart/basic.pl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-538">
@@ -1326,20 +1098,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Effective/File/basic.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-107">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/English/basic.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="225" column="2" selection-start-line="225" selection-start-column="2" selection-end-line="225" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Learning/Module/basic.pl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
@@ -1351,6 +1109,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/File/practise.pl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#495#512#0#Perl5" expanded="true" />
+            <element signature="e#914#942#0#Perl5" expanded="true" />
+            <element signature="e#1626#1671#0#Perl5" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/Module/practise.pl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="72" column="44" lean-forward="true" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
+          <folding>
+            <element signature="e#495#512#0#Perl5" expanded="true" />
+            <element signature="e#852#875#0#Perl5" expanded="true" />
+            <element signature="e#1103#1118#0#Perl5" expanded="true" />
+            <element signature="e#1546#1559#0#Perl5" expanded="true" />
+            <element signature="e#1993#2037#0#Perl5" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Effective/File/basic.pl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/File/basic.pl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="186" lean-forward="true" selection-start-line="186" selection-end-line="186" />
+          <folding>
+            <element signature="e#495#512#0#Perl5" expanded="true" />
+            <element signature="e#898#907#0#Perl5" expanded="true" />
+            <element signature="e#3747#3782#0#Perl5" expanded="true" />
+            <element signature="e#5040#5070#0#Perl5" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Books/进阶书籍.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1358,39 +1162,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning/File/basic.pl">
+    <entry file="file://$PROJECT_DIR$/Test/text3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/test.old">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/test.new">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/English/basic.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="186" selection-start-line="186" selection-end-line="186" />
-          <folding>
-            <element signature="e#495#512#0#Perl5" expanded="true" />
-            <element signature="e#898#907#0#Perl5" expanded="true" />
-            <element signature="e#3747#3782#0#Perl5" expanded="true" />
-            <element signature="e#4873#4927#0#Perl5" expanded="true" />
-            <element signature="e#5040#5070#0#Perl5" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="216" column="18" lean-forward="true" selection-start-line="216" selection-start-column="18" selection-end-line="216" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning/Module/practise.pl">
+    <entry file="file://$PROJECT_DIR$/Linux/basic.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="72" column="2" lean-forward="true" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="44" />
-          <folding>
-            <element signature="e#495#512#0#Perl5" expanded="true" />
-            <element signature="e#852#875#0#Perl5" expanded="true" />
-            <element signature="e#1103#1118#0#Perl5" expanded="true" />
-            <element signature="e#1546#1559#0#Perl5" expanded="true" />
-          </folding>
+        <state relative-caret-position="376">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning/File/practise.pl">
+    <entry file="file://$PROJECT_DIR$/Test/text4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning/Directory/basic.pl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        <state relative-caret-position="308">
+          <caret line="203" column="5" lean-forward="true" selection-start-line="203" selection-start-column="5" selection-end-line="203" selection-end-column="5" />
           <folding>
-            <element signature="e#495#512#0#Perl5" expanded="true" />
+            <element signature="e#76#85#0#Perl5" expanded="true" />
+            <element signature="e#533#653#0#Perl5" expanded="true" />
+            <element signature="e#1569#1637#0#Perl5" expanded="true" />
+            <element signature="e#1846#1902#0#Perl5" expanded="true" />
+            <element signature="e#2691#2731#0#Perl5" expanded="true" />
+            <element signature="e#3868#3928#0#Perl5" expanded="true" />
+            <element signature="e#5892#5900#0#Perl5" expanded="true" />
           </folding>
         </state>
       </provider>

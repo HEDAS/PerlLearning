@@ -58,7 +58,7 @@ my $dir = "Learning";
 my @all_files_in_dir = <$dir/* $dir/.*>;
 say "@all_files_in_dir";
 
-# 尖括号又可以读取文件句柄，又可以文件名通配。如果尖括号里面的满足标识符，就用文件句柄读取，否则采用文件名通配
+# 尖括号又可以读取文件句柄，又可以文件名通配。如果尖括号里面的满足标识符，就优先用文件句柄读取，否则采用文件名通配
 # my @files = <FRED>; # 文件句柄
 # my @files = <FRED/*>; # 文件名通配
 # my @files = <$fred>; # 间接文件句柄读取：indirect filehandle read，变量的内容就是文件句柄！
@@ -100,14 +100,121 @@ closedir($dh);
 
 # 只处理*.pm文件
 opendir($dh, 'Learning/IO');
-while (my $name = readdir $dh){
+while(my $name = readdir $dh) {
     next unless $name =~ /\.pl$/;
-    # 对pm文件进行处理
+    # 对pl文件进行处理
     say $name;
 }
 
 # readdir返回的文件名不包含路径名！需要自己加上才行
-# opendir(my $somedir, $dirname) or die "Cannot open $dirname: $!";
+my $dirname = 'Learning/IO';
+opendir(my $somedir, $dirname) or die "Cannot open $dirname: $!";
+while(my $name = readdir $somedir) {
+    next if $name =~ /^\./;
+    $name = "$dirname/$name";
+    next unless -f $name and -r $name;
+    say "$name";
+}
 
+# 更常用的模块：File::Spec::Functions
+use File::Spec::Functions;
+opendir($somedir, $dirname) or die "Cannot open $dirname: $!";
+while(my $name = readdir $somedir) {
+    next if $name =~ /^\./;
+    $name = catfile($dirname, $name);
+    next unless -f $name and -r $name;
+    say $name;
+}
+# 若没有路径，文件测试符-f -s等会在当前目录下查找文件，而不是指定目录 Learning\IO\bamm-bamm
 
 # ======================================================================================================================
+# 递归处理：File::Find 和 Path::Class
+# 在命令行输入：find2perl . -name '*.pm'
+# 自动生成脚本：
+# #! E:\Software\Strawberry\perl\bin\perl.exe -w
+#     eval 'exec E:\Software\Strawberry\perl\bin\perl.exe -S $0 ${1+"$@"}'
+#         if 0; #$running_under_some_shell
+#
+# use strict;
+# use File::Find ();
+#
+# # Set the variable $File::Find::dont_use_nlink if you're using AFS,
+# # since AFS cheats.
+#
+# # for the convenience of &wanted calls, including -eval statements:
+# use vars qw/*name *dir *prune/;
+# *name   = *File::Find::name;
+# *dir    = *File::Find::dir;
+# *prune  = *File::Find::prune;
+#
+# sub wanted;
+#
+#
+#
+# # Traverse desired filesystems
+# File::Find::find({wanted => \&wanted}, '.');
+# exit;
+#
+#
+# sub wanted {
+#     /^'.*\.pm'\z/s
+#     && print("$name\n");
+# }
+
+# File::Find::Rule 和 File::Finder 建议使用
+
+# ======================================================================================================================
+# 删除文件：Linux下：rm slate bedrock lava 删除3个文件
+# Perl删除文件：
+# unlink 'slate', 'bedrock', 'lava';
+# my $successful = unlink qw( slate bedrock lava );
+# unlink glob '*.o'; # 联合unlink和glob一次性删除多个文件
+# unlink的返回值表示成功删除的文件个数，但不确定是哪几个，所以也可以用循环来删除文件
+# print "I deleted $successful file(s) just now\n";
+
+# foreach my $file(qw(slate bedrock lava)){
+#     unlink $file or warn "failed on $file: $!\n";
+# }
+
+# unlink不能删除目录，得用rmdir函数才行
+# 注意：chomd 0 文件 会导致文件无法读取写入执行
+# 删除不够权限的系统文件也是不行的，/etc/passwd
+
+# ======================================================================================================================
+# 重命名文件，凡是跟文件有关都需要用户权限支持
+# rename "Test/text3.txt", "Learning/Directory/text.txt";   # 移动并重命名
+# rename "Test/text3.txt" => "Learning/Directory/text.txt"; # 移动并重命名，更直观的写法
+# 有文件错误用or die或者or warn汇报问题
+
+# 批量重命名：
+foreach my $file (glob "Test/*.new") {
+    my $newfile = $file;
+    $newfile =~ s/\.new$/.old/; # 替换的第二个段可以不用\.，因为右边相当于字符串，不是正则
+    # 可以合并成：
+    # (my $newfile = $file) =~ s/\.new$/.old/;
+    # my $newfile = $file =~ s/\.new$/.old/r; # 无损替换，不伤害原来的文件
+    if(-e $newfile) {
+        warn "Can't rename $file to $newfile: $newfile exists.\n";
+    }
+    elsif(rename $file => $newfile) {
+        # 改名成功，什么都不用做
+    }
+    else {
+        warn "Rename $file to $newfile failed: $!\n";
+    }
+}
+
+# link和symlink都可以用unlink删除
+# link 本地文件 链接 （Windows下无效）
+# link "Test/text4.txt", "Test/text";
+
+# Windows不支持
+# symlink "Test/text4.txt", "Test/text_soft_link" or warn $!;
+
+# Windows不支持，取得符号链接指向的位置
+# readlink "Test/text";
+
+# 如果符号链接指向的文件被移动了，文件测试符：-l 测试为真 但 -e 测试为假
+
+
+

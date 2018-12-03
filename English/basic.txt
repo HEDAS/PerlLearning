@@ -224,3 +224,11 @@ interface
 接口
 license
 许可证
+mounted volume
+挂载卷
+symbolic link
+符号链接
+soft link
+软链接
+hard link
+硬链接
