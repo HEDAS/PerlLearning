@@ -4,10 +4,15 @@
       <w>autovivification</w>
       <w>chdir</w>
       <w>circ</w>
+      <w>cpan</w>
+      <w>cpanm</w>
+      <w>cpanminus</w>
       <w>cucud</w>
       <w>dabba</w>
       <w>dwim</w>
       <w>flintstone</w>
+      <w>mcpan</w>
+      <w>minicpan</w>
       <w>passwd</w>
       <w>predecrement</w>
       <w>preincrement</w>

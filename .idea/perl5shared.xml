@@ -11,4 +11,7 @@
     <option name="PERL_CRITIC_ENABLED" value="true" />
     <option name="PERL_SWITCH_ENABLED" value="true" />
   </component>
+  <component name="TemplateToolkitSettings">
+    <option name="ENABLE_ANYCASE" value="true" />
+  </component>
 </project>

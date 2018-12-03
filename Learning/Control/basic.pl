@@ -171,7 +171,7 @@ for(1..10) { # Perl用分号来判断使用for还是foreach循环，但这两个
 
 # ======================================================================================================================
 # 循环控制
-# Perl的5个循环块：for foreach while until 裸块（可以用last退出）
+# Perl的5个循环块：for foreach while until 裸块（可以用last退出，也可以用next）
 # if和子程序的块不是循环块
 
 # last：相当于C语言的break，提前退出循环
@@ -186,19 +186,123 @@ for(1..10) { # Perl用分号来判断使用for还是foreach循环，但这两个
 # }
 
 # next：跳到当前循环块底端，继续执行下一次迭代，相当于C语言的continue
-# my ($total, $valid);
-# while(<>){
-#     foreach(split){ # split不带参数：默认以空白分割$_，形成列表
-#         $total++;
-#         next if/\W/;
+# 注意：next只对最内层循环块起作用
+# say "";
+# %count = (); # 清空上一个列表
+# my ($total, $valid) = (0, 0);
+# while(<>) {           # 外层的$_负责读入每一行
+#     foreach(split) {
+#                       # split不带参数：默认以空白分割$_，形成列表
+#         $total++;     # 内层的$_负责处理分割好的行
+#         next if /\W/; # Perl能正确处理为了新用途而重用的$_
 #         $valid++;
 #         $count{$_}++;
 #         # 上面next运行会跳到这里
 #     }
 # }
 # # 按Ctrl+D结束
-# say "total things = $total, valid words = $valid\n";
+# say "total things = $total, valid words = $valid\n"; # say的变量是undef会报错
 #
-# foreach my $word (sort keys %count){
+# foreach my $word (sort keys %count) {
 #     say "$word was seen $count{$word} times.";
 # }
+# # Tom's full-sized hades
+
+# redo：返回当前循环块顶端，不用经过任何条件测试，也不会进入下次循环
+# 注意：redo只对最内层循环块起作用，if不是循环块
+# 打字测试
+# my @words = qw{ fred barney pebbles dino wilma betty };
+# my $errors = 0;
+#
+# foreach(@words) {
+#     ## redo 指令会跳转到这里 ##
+#     print "Type the word '$_': ";
+#     chomp(my $try = <STDIN>);
+#     if($try ne $_) {
+#         print "Sorry - That's not right.\n\n";
+#         $errors++;
+#         redo; # 回到循环顶端
+#     }
+# }
+# say "You've completed the test, with $errors errors.";
+
+# 综合应用
+# foreach(1..10) {
+#     say "Iteration number $_.\n";
+#     print "Please choose: last, next, redo, or none of the above? ";
+#     chomp(my $choice = <STDIN>);
+#     say "";
+#     last if $choice =~ /last/i;
+#     next if $choice =~ /next/i;
+#     redo if $choice =~ /redo/i;
+#     say "That wasn't any of the choices... onward!\n";
+# }
+# say "That's all, folks!";
+
+# ======================================================================================================================
+# 带标签的块
+# 建议是全大写，规范跟标识符一样，字母数字下划线，不以数字开头
+# say "";
+# # 对某个循环块加上标签
+# LINE:
+# while(<>) {
+#     foreach(split){
+#         last LINE if /__END__/;
+#         say;
+#     }
+# }
+
+# ======================================================================================================================
+# 条件操作符：?:
+# my $location = &is_weekend($day) ? "home" : "work"; # 根据函数执行的布尔值决定
+
+# 任何用?:的，都可以改写成if-else
+
+# 多重?:
+# my $width = 55;
+# my $size =
+#     ($width < 10) ? "small" :
+#         ($width < 20) ? "medium" :
+#             ($width < 50) ? "large" :
+#                 "extra-large";
+# say $size;
+
+# ======================================================================================================================
+# 逻辑操作符：&& ||，是短路求值的
+$n = 0;
+my $total = 10;
+if(($n != 0) && ($total / $n < 5)) {
+    say "The average is below five.";
+}
+
+# 短路操作符的值不是简单的布尔值，而是最后运算那部分表达式的值
+# my $last_name = $last_name{$someone} || '(No last name)'; # 但注意，$last_name{$someone}的名字不能是0这样的逻辑上为假的值
+# my $last_name = defined $last_name{$someone} ? $last_name{$someone} : '(No last name)'; # 更加保险
+
+# 定义或操作符(defined-or)：//
+# 为了解决上面例子出现的问题，用于判断左边的值是不是undef
+# my $last_name = $last_name{$someone} // '(No last name)';
+# my $Verbose = $ENV{VERBOSE} // 1; # 查看环境变量VERBOSE是否被赋值，否则赋予默认值1
+# foreach my $try (0, undef, '0', 1, 25) {
+#     print "Trying [$try] ---> ";
+#     my $value = $try // 'default';
+#     say "\tgot [$value]";
+# }
+
+# my $name;
+# printf "%s", $name // '';
+
+# 控制方法：
+# ($m < $n) && ($m = $n);
+# # 相当于
+# if($m < $n) { $m = $n; }
+#  $m = $n if $m < $n;
+
+# ($m > 10) || say "$m is less than 10";
+
+# 改成 and 和 or 的写法：但由于and or的优先级比较低，所以不会粘着两边的表达式
+# $m < $n and $m = $n; # 由于单词操作符的优先级很低，可以看成把代码分开两块，先做完左边，在做右边
+
+# 常见使用：open ... or die;
+
+# 其他：not（相当于!）、xor（异或）

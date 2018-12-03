@@ -5,6 +5,7 @@
 - 范围操作符加上reverse：reverse 1..10; 由于范围操作符只能往上加
 - say reverse <> 用法：./this_program fred dino 读取fred和dino文件，然后逆序输出
 - 如果只需要在小范围应用变量！尽量用裸快{my xxx;}
+- 随机数：int(1 + rand 100) 产生1-100的随机数
 
 ## 代码篇
 ```perl5

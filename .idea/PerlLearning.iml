@@ -2,6 +2,7 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <perl5>
+      <path value="$MODULE_DIR$" type="perl-library" />
       <path value="$MODULE_DIR$/lib" type="perl-library" />
     </perl5>
     <exclude-output />

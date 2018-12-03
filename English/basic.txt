@@ -208,3 +208,19 @@ anchor
 锚
 boundary
 边界
+backtracking
+回溯
+multiple lines
+多行
+short-circuit
+短路
+partial-evaluation
+部分求值
+specification
+说明
+object oriented
+面向对象的
+interface
+接口
+license
+许可证
